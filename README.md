@@ -30,7 +30,7 @@ Le dataset **Mushroom** contient 8 124 échantillons décrits par **22 variables
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/Krissaan-amen/Methodes-statistiques-pour-les-donnees-qualitatives.git
+   git clone https://github.com/Krissaan-amen/Methodes_statistiques_pour_les_donnees_qualitatives.git
    ```
 2. Installez les dépendances :
    ```bash
